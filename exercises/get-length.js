@@ -8,7 +8,9 @@
  */
 
 // Your code :
-
+function getLength(a, b){}
+return getLength
+console.log(getLength.length);
 //* Begin of tests
 const assert = require('assert')
 
